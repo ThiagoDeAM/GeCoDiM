@@ -24,7 +24,7 @@ The **Edge-Weighted Gene Community Detection (EWGCD)** method identifies gene co
 Run the algorithm in the **/EWGCD** directory to identify gene communities based on the edge weights in the gene interaction network. The results will be saved in the output directory.
 
 ---
-## NRGC (Normalized Random Gene Clustering)
+## 2. NRGC (Normalized Random Gene Clustering)
 ### Overview
 The **Normalized Random Gene Clustering (NRGC)** method discovers gene communities by random exploration and normalization of edge weights in a gene interaction network. This method provides an alternative approach where community detection is driven by probabilistic selection of edges.
 ### Input Files
